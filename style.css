@@ -95,7 +95,7 @@ td{
 
 }
 .data:hover{
-  background-color: orangered ;
+  background-color:   red ;
   color: white;
 }
 #label{
@@ -104,6 +104,6 @@ td{
   color: black;
   text-align: right;
 }
-.data{background-color: green;
+.data{background-color:green;
   
 }
