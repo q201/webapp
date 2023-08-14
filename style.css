@@ -3,7 +3,7 @@
   }
   
 header{
-        background-color: burlywood;
+        background-color: burlywood;  
         text-align: center;
         font-size: 25px;
         padding: 5px;
@@ -104,6 +104,6 @@ td{
   color: black;
   text-align: right;
 }
-.data{background-color: aqua;
+.data{background-color: green;
   
 }
